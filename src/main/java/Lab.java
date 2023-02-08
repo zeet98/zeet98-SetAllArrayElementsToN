@@ -1,5 +1,5 @@
 
-public class SetAllArrayElements {
+public class Lab {
     /**
      * Your task: you will recieve an array and a number, and you will have to set every element of the array to that
      * number.

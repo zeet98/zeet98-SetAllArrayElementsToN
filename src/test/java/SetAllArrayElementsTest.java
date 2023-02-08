@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class SetAllArrayElementsTest {
-    public SetAllArrayElements saae = new SetAllArrayElements();
+    public Lab saae = new Lab();
 
     /**
      * Given some array arr as {1,2,3,4} and int n as 0, calling saae.set(arr,n) should change arr to {0,0,0,0}.
